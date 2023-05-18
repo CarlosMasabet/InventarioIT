@@ -15,7 +15,7 @@ public class Conexion_SQL {
     //información de la base de datos
     private  static final String USER = "root";
     private  static final String PASS = "123456";
-    private  static final String BD = "mydb";
+    private  static final String BD = "inventarioit";
     private  static final String DIRECCION = "localhost";
     private  static final String PORT = ":3306";
     
